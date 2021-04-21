@@ -1,14 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  {
   "Alumnas": [
     {
       "nombre": "Paloma Menendez",
@@ -234,6 +224,5 @@
       "id": 6
     }
   ]
-}
 }
 
