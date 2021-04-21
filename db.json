@@ -9,3 +9,230 @@
     "name": "typicode"
   }
 }
+{
+  "Alumnas": [
+    {
+      "nombre": "Paloma Menendez",
+      "actividad": "Pole Sport",
+      "horario": "Lunes y Miercoles - 15:00hs",
+      "cuota": "1000",
+      "id": 1
+    },
+    {
+      "nombre": "Romina Hidalgo",
+      "actividad": "Pole Sport",
+      "horario": "Lunes y Miercoles - 15:00hs",
+      "cuota": "750",
+      "id": 2
+    },
+    {
+      "nombre": "Viki pedernera",
+      "actividad": "Pole Sport",
+      "horario": "Lunes y Miercoles - 15:00hs",
+      "cuota": "1000",
+      "id": 3
+    },
+    {
+      "nombre": "Leila Zanuzzi",
+      "actividad": "Pole Sport",
+      "horario": "Lunes y Miercoles - 15:00hs",
+      "cuota": "1000",
+      "id": 4
+    },
+    {
+      "nombre": "Marcela Domingo",
+      "actividad": "Pole Sport",
+      "horario": "Lunes y Miercoles - 15:00hs",
+      "cuota": "1000",
+      "id": 5
+    },
+    {
+      "nombre": "Karen Gonzales",
+      "actividad": "Pole Sport",
+      "horario": "Lunes y Miercoles - 15:00hs",
+      "cuota": "1000",
+      "id": 6
+    },
+    {
+      "nombre": "Martina Moron",
+      "actividad": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 17:00hs",
+      "cuota": "1000",
+      "id": 7
+    },
+    {
+      "nombre": "Agustina Planas",
+      "actividad": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 17:00hs",
+      "cuota": "1000",
+      "id": 8
+    },
+    {
+      "nombre": "Julieta Fornari",
+      "actividad": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 17:00hs",
+      "cuota": "1000",
+      "id": 9
+    },
+    {
+      "nombre": "Pilar Bulchi",
+      "actividad": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 17:00hs",
+      "cuota": "1000",
+      "id": 10
+    },
+    {
+      "nombre": "Lucre Vallejos",
+      "actividad": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 17:00hs",
+      "cuota": "1000",
+      "id": 11
+    },
+    {
+      "nombre": "Luisina Zorilla",
+      "actividad": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 17:00hs",
+      "cuota": "1000",
+      "id": 12
+    },
+    {
+      "nombre": "Luciana Olmedo",
+      "actividad": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 17:00hs",
+      "cuota": "1000",
+      "id": 13
+    },
+    {
+      "nombre": "Romina Hidalgo",
+      "actividad": "GAP",
+      "horario": "Lunes y Miercoles - 16:00hs",
+      "cuota": "900",
+      "id": 14
+    },
+    {
+      "nombre": "Romina Hidalgo",
+      "actividad": "Pole Sport",
+      "horario": "Martes y Jueves - 15:30hs",
+      "cuota": "750",
+      "id": 15
+    },
+    {
+      "nombre": "Lucia Rogero",
+      "actividad": "Pole Sport",
+      "horario": "Lunes y Miercoles - 20:00hs",
+      "cuota": "900",
+      "id": 16
+    }
+  ],
+  "Actividades": [
+    {
+      "id": 1,
+      "nombre": "Pole Sport"
+    },
+    {
+      "id": 2,
+      "nombre": "Acrobacias en Telas"
+    },
+    {
+      "id": 3,
+      "nombre": "Twerk"
+    }
+  ],
+  "horarios": [
+    {
+      "id": 1,
+      "nombre": "Pole Sport",
+      "horario": "Lunes y Miercoles - 15:00hs"
+    },
+    {
+      "id": 2,
+      "nombre": "Pole Sport",
+      "horario": "Lunes y Miercoles - 18:00hs"
+    },
+    {
+      "id": 3,
+      "nombre": "Pole Sport",
+      "horario": "Lunes y Miercoles - 20:00hs"
+    },
+    {
+      "id": 4,
+      "nombre": "Pole Sport",
+      "horario": "Martes y Jueves - 20:00hs"
+    },
+    {
+      "id": 5,
+      "nombre": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 17:00hs"
+    },
+    {
+      "id": 6,
+      "nombre": "Acrobacias en Telas",
+      "horario": "Lunes y Miercoles - 19:00hs"
+    },
+    {
+      "id": 7,
+      "nombre": "Twerk",
+      "horario": "Viernes - 20:00hs"
+    },
+    {
+      "id": 8,
+      "nombre": "GAP",
+      "horario": "Lunes y Miercoles - 16:00hs"
+    },
+    {
+      "id": 9,
+      "nombre": "Pole Sport",
+      "horario": "Martes y Jueves - 15:30hs"
+    }
+  ],
+  "pagos": [
+    {
+      "id": 1,
+      "idalumna": "2",
+      "mes": "4",
+      "año": "2021",
+      "importe": "750",
+      "actividad": "Pole Sport"
+    },
+    {
+      "idalumna": "8",
+      "mes": 4,
+      "año": 2021,
+      "importe": "1000",
+      "actividad": "Acrobacias en Telas",
+      "id": 2
+    },
+    {
+      "idalumna": "6",
+      "mes": 4,
+      "año": 2021,
+      "importe": "1000",
+      "actividad": "Pole Sport",
+      "id": 3
+    },
+    {
+      "idalumna": "8",
+      "mes": 4,
+      "año": 2021,
+      "importe": "1000",
+      "actividad": "Acrobacias en Telas",
+      "id": 4
+    },
+    {
+      "idalumna": "9",
+      "mes": 4,
+      "año": 2021,
+      "importe": "1000",
+      "actividad": "Acrobacias en Telas",
+      "id": 5
+    },
+    {
+      "idalumna": "4",
+      "mes": 4,
+      "año": 2021,
+      "importe": "1000",
+      "actividad": "Pole Sport",
+      "id": 6
+    }
+  ]
+}
